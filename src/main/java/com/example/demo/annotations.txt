@@ -1,0 +1,11 @@
+@Controller
+@ResponseBody
+@RestController
+@Component
+@Service
+@Autowired
+@Value
+@ComponentScan
+@Configuration
+@EnableAutoConfiguration
+@SpringBootApplication
